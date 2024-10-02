@@ -28,8 +28,9 @@ streamlit run chat.py
 
 Open a web browser and navigate to the URL provided by Streamlit (typically http://localhost:8501).
 
-Upload PDF files and ask questions:
+6. Upload PDF files and ask questions:
 
 Upload one or multiple PDF documents using the file uploader in the sidebar.
 Enter your question in the text input box and click the "Submit & Process" button.
 The application will process the uploaded PDF files, extract text content, and generate responses to your questions using the Gemini AI model.
+Use the Fixed Income Research Reports folder for testing pdf Bloomberg FI reports.
